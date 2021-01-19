@@ -1,0 +1,1 @@
+# inifinite-slider-sample
